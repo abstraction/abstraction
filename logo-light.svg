@@ -1,8 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 60" width="420" height="60" shape-rendering="crispEdges">
-  <style>
-    .pixel { fill: #e6edf3; } /* Default to dark mode text color */
-    @media (prefers-color-scheme: light) { .pixel { fill: #1F2328; } }
-  </style>
+  <style> .pixel { fill: #1F2328; } </style>
   <rect class="pixel" x="40" y="0" width="10.2" height="10.2" />
   <rect class="pixel" x="320" y="0" width="10.2" height="10.2" />
   <rect class="pixel" x="40" y="10" width="10.2" height="10.2" />
